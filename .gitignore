@@ -1,0 +1,33 @@
+# Ignore Maven/Gradle specific files
+target/
+build/
+
+# Ignore IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.swp
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore application specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore configuration files
+application.properties
+application.yml
